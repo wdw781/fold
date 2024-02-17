@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.Image {
+    text-align: center;
+    background-color: gray;
+}
+
+.Image {
+    display: block;
+    margin: 0 auto;
+}
